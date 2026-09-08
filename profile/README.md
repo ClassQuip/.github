@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="white_background_wordmark.svg" alt="ClassQuip" width="480">
+  <img src="orange_background_wordmark.svg" alt="ClassQuip" width="480">
 </p>
 
 <p align="center">
