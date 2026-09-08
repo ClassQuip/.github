@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  📍 Knoxville, TN &nbsp;·&nbsp; [![ClassQuip](https://img.shields.io/badge/ClassQuip-K--12%20Virtual%20Classroom-2563eb?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://classquip.com)
+  📍 Knoxville, TN &nbsp;·&nbsp; [![ClassQuip](https://img.shields.io/badge/ClassQuip-K--12%20Virtual%20Classroom-2563eb?style=for-the-badge&logo=googleclassroom&logoColor=white)] (https://classquip.com)
 </p>
 
 ---
