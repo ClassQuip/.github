@@ -26,7 +26,7 @@ We are developing **ClassQuip**, a K-12 virtual classroom platform focused on ac
 - **AI teacher assistant** — engagement alerts, check-ins, and live session summaries
 - **LMS-native integrations** — LTI 1.3 with Canvas, Blackboard, Schoology, and Clever
 
-ClassQuip is currently in development. [Join the waitlist](https://www.classquip.com) for early access.
+ClassQuip is currently in development.
 
 ## Who we serve
 
