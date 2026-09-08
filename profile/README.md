@@ -1,50 +1,49 @@
-# ClassQuip
+<p align="center">
+  <img src="white_background_wordmark.svg" alt="ClassQuip" width="480">
+</p>
 
-**The action-first virtual classroom built for K-12.**
+<p align="center">
+  <strong>Building the action-first virtual classroom for K-12.</strong>
+</p>
 
-ClassQuip equips teachers with AI-powered engagement tools, zero-friction breakout groups, and live interaction—designed for active, distraction-free digital learning.
-
-🌐 **[www.classquip.com](https://www.classquip.com)** — Request early access on our waitlist.
+<p align="center">
+  📍 Maryville, TN &nbsp;·&nbsp; 🌐 <a href="https://www.classquip.com">classquip.com</a>
+</p>
 
 ---
 
-## What is ClassQuip?
+## About
 
-ClassQuip is a K-12 virtual classroom platform focused on **action-first teaching**. Instead of passive video calls, ClassQuip keeps students engaged through instant polls, breakout groups, hand-raises, and real-time interaction—all without interrupting lesson flow.
+**ClassQuip** is an education technology company on a mission to make virtual learning as engaging and effective as the best in-person classrooms.
 
-Built for educators, tech directors, and district leaders who need a modern virtual classroom that works with the tools schools already use.
+We build software for teachers, tech directors, and district leaders who need modern tools that fit how schools actually work—integrated with existing LMS platforms, designed for active instruction, and built with student engagement at the center.
 
-## Key Features
+## What we do
 
-### Zero-Friction Tools
+We are developing **ClassQuip**, a K-12 virtual classroom platform focused on action-first teaching:
 
-Launch instant polls, breakouts, and hand-raises without interrupting lesson flow. Teachers stay in control of the classroom without juggling multiple apps or breaking momentum.
+- **Zero-friction classroom tools** — polls, breakouts, and hand-raises without breaking lesson flow
+- **AI teacher assistant** — engagement alerts, check-ins, and live session summaries
+- **LMS-native integrations** — LTI 1.3 with Canvas, Blackboard, Schoology, and Clever
 
-### AI Teacher Assistant
+ClassQuip is currently in development. [Join the waitlist](https://www.classquip.com) for early access.
 
-Automated check-ins, real-time engagement alerts, and live summary notes help teachers understand what’s working in every session and support students who need attention.
+## Who we serve
 
-### LMS Native
-
-Deep LTI 1.3 integration with Canvas, Blackboard, Schoology, and Clever. Rosters, course materials, and classroom activity stay connected to your existing learning management system.
-
-## Who It's For
-
-| Audience | Why ClassQuip |
+| Audience | How we help |
 | --- | --- |
 | **Teachers** | Run active, engaging virtual lessons with tools that feel natural in the flow of teaching |
 | **Tech directors** | Deploy a platform that integrates with your LMS and meets district security expectations |
 | **District leaders** | Scale consistent, high-quality virtual instruction across schools and programs |
 
-## Status
+## Connect
 
-ClassQuip is **coming soon**. Join the waitlist at [classquip.com](https://www.classquip.com) to request early access and stay updated on our launch.
-
-## Links
-
-- Website: [https://www.classquip.com](https://www.classquip.com)
-- Early access: [Request on classquip.com](https://www.classquip.com)
+- **Website:** [classquip.com](https://www.classquip.com)
+- **Early access:** [Request on our waitlist](https://www.classquip.com)
+- **Organization:** [github.com/ClassQuip](https://github.com/ClassQuip)
 
 ---
 
-*ClassQuip — K-12 Virtual Classroom Platform*
+<p align="center">
+  <sub>ClassQuip · Maryville, TN · K-12 EdTech</sub>
+</p>
