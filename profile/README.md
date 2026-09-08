@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  📍 Maryville, TN &nbsp;·&nbsp; 🌐 <a href="https://www.classquip.com">classquip.com</a>
+  📍 Knoxville, TN &nbsp;·&nbsp; 🌐 <a href="https://www.classquip.com">classquip.com</a>
 </p>
 
 ---
@@ -39,11 +39,10 @@ ClassQuip is currently in development. [Join the waitlist](https://www.classquip
 ## Connect
 
 - **Website:** [classquip.com](https://www.classquip.com)
-- **Early access:** [Request on our waitlist](https://www.classquip.com)
 - **Organization:** [github.com/ClassQuip](https://github.com/ClassQuip)
 
 ---
 
 <p align="center">
-  <sub>ClassQuip · Maryville, TN · K-12 EdTech</sub>
+  <sub>ClassQuip · Knoxville, TN · K-12 EdTech</sub>
 </p>
